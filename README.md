@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanky29
 - 👀 I’m interested in AI (RL) and compilers
-- 🌱 I’m currently learning about prediction next frame in video
+- 🌱 I’m currently working on next frame prediction in video
 
 
 <!---
